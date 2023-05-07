@@ -1,11 +1,7 @@
 # Roundest - Which Pokémon is most round?
 
 Answering all of life's toughest questions
-
-## Why?
-
-Why not. I [streamed most of the creation of this project if you're curious](https://www.youtube.com/watch?v=PKy2lYEnhgs). Regardless of how you feel about the idea, I think the technical details of this implementation are worth learning from.
-
+---------------------------------------------------------------------------------------------------------------------
 ## Getting Started
 
 Prerequisite:
